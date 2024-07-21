@@ -1,0 +1,12 @@
+
+.card:hover {
+    outline: 2px solid #0dcaf0;
+  }
+
+.card-img-top:hover {
+  opacity: 50%;
+}
+  
+.logo {
+    max-height: 200px;
+}
